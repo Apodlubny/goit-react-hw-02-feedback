@@ -6,3 +6,6 @@ export const Title = styled.h1`
   text-align: center;
   color: #8d5402;
 `;
+export const SectionContainer = styled.div`
+  padding-top: 20px;
+`;
