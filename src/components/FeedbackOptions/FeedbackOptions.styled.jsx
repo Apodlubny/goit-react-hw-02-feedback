@@ -12,7 +12,7 @@ export const ListItem = styled.li`
 `;
 export const Btn = styled.button`
   font-size: 14px;
-  
+
   display: block;
   width: 100px;
   height: 30px;
@@ -25,12 +25,9 @@ export const Btn = styled.button`
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.2),
     inset 0 0 6px 0 rgba(255, 255, 255, 0.3), 0 1px 2px rgba(0, 0, 0, 0.4);
   background: #c57f22;
-  
-}
 
-:hover {
-  background:#f2ede6;
-  color: #000;
-  
-}
+  :hover {
+    background: #f2ede6;
+    color: #000;
+  }
 `;
